@@ -1,0 +1,20 @@
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+C:\User\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csprojAssemblyReference.cache
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Properties.Resources.resources
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.GenerateResource.cache
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
+C:\Users\Source\Repos\C# Projects\MarleneBoyce\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.frmMain.resources
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe.config
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.exe
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\bin\Debug\FitnessTracker.pdb
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csprojAssemblyReference.cache
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.frmMain.resources
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.Properties.Resources.resources
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.GenerateResource.cache
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.csproj.CoreCompileInputs.cache
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.exe
+C:\Users\library\Desktop\FitnessTracker\FitnessTracker\obj\Debug\FitnessTracker.pdb
